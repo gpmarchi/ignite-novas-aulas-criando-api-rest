@@ -145,4 +145,7 @@ dist
 # sqlite database files
 *.db
 
+# tsup build folder
+build
+
 # End of https://www.toptal.com/developers/gitignore/api/node
